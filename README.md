@@ -4,7 +4,7 @@ Repository ini berisi bagaimana cara melakukan Exploratory Data
 ## Description
 *Exploratory Data Analysis* adalah sebuah cara untuk mengeksplor data untuk mendapatkan penjelasan dari data tersebut.
 
-# EDA Steps
+## EDA Steps
 1. Data Cleansing
 Melakukan cleansing data pada :
 - Missing data
